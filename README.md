@@ -8,7 +8,10 @@ Each folder is titled after the course number.
 You can find the course title and the semester I took the course below.
 
 
-I took ASTR221, titled "Galactic Astronomy", during the Spring 2019 term.
-I took PHYS340, titled "Computational Physics", during the Spring 2019 term.
-I took ASTR232, titled "Galaxies, Quasars, and Cosmology", during the Fall 2019 term.
-I took ASTR221, titled "Galactic Astronomy", during the Spring 2019 term.
+`ASTR221` is "Galactic Astronomy, taken spring 2019.
+
+`PHYS340` is "Computational Physics, taken spring 2019.
+
+`ASTR232` is "Galaxies, Quasars, and Cosmology, taken fall 2019.
+
+`ASTR231` is "Stellar Structure and Evolution", taken spring 2020.
